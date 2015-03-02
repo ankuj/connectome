@@ -1,0 +1,2 @@
+serviceClass: com.connectome.client.GreetingService
+path: B4337B22C37170A5F3E7A78F4540A558.gwt.rpc
